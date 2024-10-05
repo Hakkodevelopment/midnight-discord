@@ -20,7 +20,7 @@
 	--font: 'figtree';
 
 	/* top left corner text */
-	--corner-text: 'Midnight - Night Owl';
+	--corner-text: 'Discord';
 
 	/* thickness of messages divider */
 	--divider-thickness: 3px;
@@ -32,13 +32,13 @@
 	--streaming-indicator: hsl(260, 60%, 60%); /* change to #593695 for default purple */
 
 	/* accent colors */
-	--accent-1: hsl(221, 100%, 75%); /* links */
-	--accent-2: hsl(84, 62%, 45%); /* general unread/mention elements */
-	--accent-3: hsl(276, 68%, 45%); /* accent buttons */
-	--accent-4: hsl(276, 68%, 40%); /* accent buttons when hovered */
-	--accent-5: hsl(276, 68%, 35%); /* accent buttons when clicked */
-	--mention: hsla(207, 95%, 50%, 0.05); /* mentions & mention messages */
-	--mention-hover: hsla(207, 95%, 50%, 0.1); /* mentions & mention messages when hovered */
+	--accent-1: hsl(222, 71%, 55%); /* links */
+	--accent-2: hsl(222, 71%, 55%); /* general unread/mention elements */
+	--accent-3: hsl(222, 71%, 55%); /* accent buttons */
+	--accent-4: hsl(222, 71%, 55%); /* accent buttons when hovered */
+	--accent-5: hsl(222, 71%, 55%); /* accent buttons when clicked */
+	--mention: hsla(222, 71%, 55%, 0.05); /* mentions & mention messages */
+	--mention-hover: hsla(222, 71%, 55%, 0.1); /* mentions & mention messages when hovered */
 
 	/* text colors */
 	--text-0: white; /* text on colored elements */
